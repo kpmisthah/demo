@@ -1,0 +1,10 @@
+Helmet lib
+compression 
+hpp -security
+CSFR
+enums 
+DI 
+base repository 
+generic repository
+use InterSchema and HyradatedDoucment instead of Document
+use pick omit in frontend/services layer
