@@ -25,5 +25,5 @@ export const useAuthStore = create<AuthState>((set)=>({
             isAuthenticated:false
         })
     }
-}));
+}))
 
