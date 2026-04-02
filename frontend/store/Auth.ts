@@ -1,6 +1,6 @@
 
 import {create} from 'zustand'
-import { User } from '@/modules/admin/types/user.type'; 
+import { User } from '@/modules/admin/types/user.type'
 
 interface AuthState {
     user:User|null;
